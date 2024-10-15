@@ -1,0 +1,60 @@
+[ {
+  "id" : "b34bef6e-05d8-4713-80cf-b9f1744917d0",
+  "createdDate" : "17/05/2024 17:10:21",
+  "name" : "Walker",
+  "username" : "Walker_004",
+  "phoneNumber" : "+998882522912",
+  "location" : {
+    "longitude" : 69.190294,
+    "latitude" : 41.277132,
+    "horizontal_accuracy" : 13.0
+  },
+  "role" : "SELLER",
+  "state" : "SELL_MENU",
+  "chatId" : 5847910933,
+  "active" : true
+}, {
+  "id" : "f6843fc8-177a-4569-a785-96b924e1cb56",
+  "createdDate" : "18/05/2024 16:09:49",
+  "name" : "Javohir",
+  "username" : "Feniks004",
+  "phoneNumber" : "+998940822912",
+  "location" : null,
+  "role" : "SELLER",
+  "state" : "MAIN_MENU",
+  "chatId" : 2010602597,
+  "active" : true
+}, {
+  "id" : "b8de4a42-6d8f-4e1e-98f8-49ada1c3b654",
+  "createdDate" : "18/05/2024 16:16:11",
+  "name" : "Egamov",
+  "username" : "EcOnImIsTSUE",
+  "phoneNumber" : "998938686333",
+  "location" : null,
+  "role" : "SELLER",
+  "state" : "SELL_MENU",
+  "chatId" : 6260346595,
+  "active" : true
+}, {
+  "id" : "1c6fe3de-23cb-4229-bdca-3393eb0ea5c4",
+  "createdDate" : "21/05/2024 09:16:54",
+  "name" : "JK Lessons",
+  "username" : null,
+  "phoneNumber" : "+998990748463",
+  "location" : null,
+  "role" : "SELLER",
+  "state" : "MAIN_MENU",
+  "chatId" : 6809751104,
+  "active" : true
+}, {
+  "id" : "ce140723-157d-4539-bb2f-3a91e75d2a94",
+  "createdDate" : "21/05/2024 09:43:18",
+  "name" : "\uD835\uDCDF\uD835\uDCEA\uD835\uDCFB\uD835\uDCFF\uD835\uDCF2\uD835\uDCF7\uD835\uDCEA",
+  "username" : null,
+  "phoneNumber" : "+998942622450",
+  "location" : null,
+  "role" : "SELLER",
+  "state" : "MAIN_MENU",
+  "chatId" : 5691049190,
+  "active" : true
+} ]
