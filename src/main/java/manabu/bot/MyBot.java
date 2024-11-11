@@ -19,7 +19,7 @@ import java.io.File;
 public class MyBot extends TelegramLongPollingBot {
 
     public MyBot() {
-        super("6762077324:AAGLmRB1j9kjb1HWqwNVZc4WTk3RQRCAw_w");
+        super(""); /// bu yerga token berasiz
     }
 
     public static Buttons buttons = new Buttons();
